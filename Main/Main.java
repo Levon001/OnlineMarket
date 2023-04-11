@@ -43,7 +43,7 @@ public class Main {
         System.out.println(client1.getCart().getShopingCartItem("Watermelon").getQuantity());
         System.out.println(client1.getCart().getTotalPrice());
 
-        client1.print();
+     //   client1.print();
 
 //
 //       shop1.displayProduct();
