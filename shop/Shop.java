@@ -42,7 +42,7 @@ public class Shop {
         for (Buyer item : buyerList) {
             System.out.println(item.getFirstName() + " " + item.getLastName() + " " + item.getBuyerId());
         }
-    }
+    } 
 }
 
 
