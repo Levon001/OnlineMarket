@@ -83,10 +83,4 @@ public class Buyer {
 //        }
 //    }
 
-    public static void main(String[] args) {
-
-    }
-
-    public void print() {
-    }
 }
